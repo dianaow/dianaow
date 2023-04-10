@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-Important: Only accepting freelance fixed rate jobs beginning from USD$2K
-
-I am a freelancing Data Visualization Developer, with over 3 years of experience building data-rich web applications and visual interfaces. I have a penchant for designing and developing highly-detailed and interactive visualizations with D3.js, PIXI.js, Canvas, React, Vue, Javascript (ES6+) and CSS, as seen on my portfolio - [dianameow.com](https://www.dianameow.com) 
+I am a Data Visualization Developer, with 4 years of experience building data-rich web applications and creative visual interfaces. I have a penchant for designing and developing highly-detailed and interactive visualizations with D3.js, PIXI.js, Canvas, React, Vue, Javascript (ES6+) and CSS, as seen on my portfolio - [dianameow.com](https://www.dianameow.com) 
 
 I have a particular interest and specialization in network or graph visualization. I also enjoy creating generative art!
-
-Direct message me on [Twitter](https://twitter.com/dianaow), if you would like to have a chat. 
-For work opportunities, you may contact me at diana.ow@outlook.com
 
 </br> 
 </br> 
