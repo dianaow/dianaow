@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Data Visualization Developer, with 4 years of experience building data-rich web applications and creative visual interfaces. I have a penchant for designing and developing highly-detailed and interactive visualizations with D3.js, PIXI.js, Canvas, React, Vue, Javascript (ES6+) and CSS, as seen on my portfolio - [dianameow.com](https://www.dianaow.com) 
+I am a Frontend Developer, with close to 5 years of experience building data-rich web applications, data visualizations and creative visual interfaces. I design and develop detailed and interactive visualizations with D3.js, PIXI.js, Canvas, React, Svelte, Javascript (ES6+) and CSS, as seen on my portfolio - [dianaow.com](https://www.dianaow.com) 
 
-I have a particular interest and specialization in network or graph visualization. I also enjoy creating generative art!
+I have a particular interest and specialization in relationship mapping with network or graph visualization. I also enjoy creating generative art!
 
 Contact me at diana.ow[at]outlook[dot]com
 </br> 
