@@ -15,3 +15,4 @@ Contact me at diana.ow[at]outlook[dot]com
   <a href="http://singapore-stories.s3-website-ap-southeast-1.amazonaws.com/map_hdb/"><img width=350 src="https://dianameow.com/images/hdb.png"></a> 
 </div>
  
+Please reach out if you are interested to hire me or work together on a project!
