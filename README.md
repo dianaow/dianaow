@@ -12,8 +12,6 @@ Know-how:
 - Creating backend-for-frontend APIs with Node.js, Express or Flask
 - Postgresql database (Supabase) set-up, schema creation and querying
 - App deployment to platforms such as Vercel, Netlify, AWS.
-- App testing with Jest
-
 
 Recent interest:
 - Generative AI: Knowledge graph construction from unstructured and structured documents with LangChain, LLM, OpenAI, Neo4j
@@ -26,11 +24,3 @@ Recent interest:
 
 </br> 
 </br> 
-
-<div>
-  <a href="https://d3-force-collection.herokuapp.com/"><img width=350 src="https://github.com/dianaow/dianaow.github.io/blob/master/images/d3-force-collection-demo.gif"></a> 
-  <a target="_blank" href="https://vizforsocialgood-network.herokuapp.com/"><img width=350 src="https://github.com/dianaow/dianaow.github.io/blob/master/images/vizforsocialgood-network.png"></a> 
-  <a href="http://fifa19-viz.s3-website-ap-southeast-1.amazonaws.com/"><img width=350 src="https://dianameow.com/blog/2020/03/fifa19/fifa19_binned.png"></a> 
-  <a href="http://singapore-stories.s3-website-ap-southeast-1.amazonaws.com/map_hdb/"><img width=350 src="https://dianameow.com/images/hdb.png"></a> 
-</div>
-
